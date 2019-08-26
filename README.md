@@ -17,4 +17,4 @@ We present an entirely new geometric and probabilistic approach to synchronizati
 
 
 ## Video
-Coming soon...
+[<img src="https://img.youtube.com/vi/q03CXgyOHIE/maxresdefault.jpg" width="50%">](https://youtu.be/q03CXgyOHIE)
