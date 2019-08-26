@@ -15,6 +15,8 @@ We present an entirely new geometric and probabilistic approach to synchronizati
 ## Downloads
 [Paper](https://arxiv.org/abs/1904.05814) | [BibTex](doc/BirdalSimsekli2019.bib)
 
+## Sources
+The recent [geo-opt library](https://github.com/geoopt/geoopt) implements the RSGLD sampler that essentialy performs the Riemannian Langevin Monte Carlo we described. Alternatively, RHMC, the Hamiltonian version can also be used. On top of this, we provide the implementation of [Riemannian operators of the Birkhoff polytope](https://github.com/tolgabirdal/geoopt/blob/tolga-develop/geoopt/manifolds/birkhoff_polytope.py). Currently it is still a [pull-request](https://github.com/geoopt/geoopt/pull/96) (passes all the tests though).
 
 ## Video
 <iframe width="900" height="506.25" src="https://www.youtube.com/embed/q03CXgyOHIE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
